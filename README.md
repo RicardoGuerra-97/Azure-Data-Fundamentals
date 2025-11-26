@@ -11,13 +11,13 @@ Microsoft Azure Data Fundamentals with SQL
   
 * Roles and responsibilities for data workloads
 
-***Identify considerations for relational data on Azure***
+***Relational data on Azure***
 
 * Relational concepts
   
 * Relational Azure data services
 
-***Describe considerations for working with non-relational data on Azure***
+**Non-relational data on Azure***
 
 * Azure storage
   
