@@ -17,7 +17,7 @@ Microsoft Azure Data Fundamentals with SQL
   
 * Relational Azure data services
 
-**Non-relational data on Azure***
+***Non-relational data on Azure***
 
 * Azure storage
   
