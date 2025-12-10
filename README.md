@@ -1,14 +1,6 @@
 # Azure-Data-Fundamentals
 Microsoft Azure Data Fundamentals
 
-***SQL Projects***
-
-* _[Data Sources](https://github.com/RicardoGuerra-97/SQL-Azure-Data-/tree/main/0.%20SQL%20Projects/0.%20Data%20Sources)_
-
-* _[Analysis Students Health by DataCamp](https://github.com/RicardoGuerra-97/SQL-Azure-Data-/blob/main/0.%20SQL%20Projects/1.%20Analysis%20Students%20Health.md)_
-
-* _[GoodThought NGO by DataCamp](https://github.com/RicardoGuerra-97/SQL-Azure-Data-/blob/main/0.%20SQL%20Projects/2.%20GoodThought%20NGO%20by%20DataCamp.md)_
-
 ***Data concepts***
 
 * _[Ways to represent data](https://github.com/RicardoGuerra-97/SQL-Azure-Data-/blob/main/1.%20Data%20concepts/1.1%20Ways%20to%20represent%20data.md)_
