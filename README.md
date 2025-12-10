@@ -1,5 +1,5 @@
-# SQL-Azure-Data-
-Microsoft Azure Data Fundamentals with SQL
+# Azure-Data-Fundamentals
+Microsoft Azure Data Fundamentals
 
 ***SQL Projects***
 
