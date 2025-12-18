@@ -1,5 +1,4 @@
 # Azure-Data-Fundamentals
-Microsoft Azure Data Fundamentals
 
 ***Data concepts***
 
